@@ -1,3 +1,5 @@
+
+
 # NexusAI Enterprise OS 🚀
 > **Autonomous Multi-Agent Platform, AutoML Workbench, RAG Knowledge Hub & Natural Language BI Studio**
 
@@ -65,6 +67,40 @@ NexusAI Enterprise OS is an end-to-end, full-stack enterprise platform designed 
 - **Build Tools**: Vite, TypeScript (`tsc`), Tailwind v4
 
 ---
+## 📸 Platform Preview & UI Showcase
+
+### 1. Control Center & Real-Time Telemetry
+![Control Center Dashboard]
+<img width="1896" height="1004" alt="Screenshot 2026-08-03 124249" src="https://github.com/user-attachments/assets/fd381821-e1c9-4392-8032-ec1c9ce22047" />
+
+### 2. Autonomous Multi-Agent Fleet (8 Specialized Nodes)
+![Multi-Agent Fleet]
+<img width="1893" height="1002" alt="Screenshot 2026-08-03 124328" src="https://github.com/user-attachments/assets/b8f20bd5-d483-4b9c-af1e-cb5317a96e4e" />
+<img width="1894" height="1003" alt="Screenshot 2026-08-03 124359" src="https://github.com/user-attachments/assets/53e62ab5-5567-433a-8faa-efbd6ad93cc3" />
+<img width="1894" height="1004" alt="Screenshot 2026-08-03 124417" src="https://github.com/user-attachments/assets/86d42cae-6ac5-47f2-ba09-2ca839a4a38d" />
+
+### 3. AutoML Workbench & SHAP Feature Explainability (XAI)
+![AutoML Workbench]
+<img width="1895" height="1004" alt="Screenshot 2026-08-03 124442" src="https://github.com/user-attachments/assets/67dc36bb-e3a8-4efb-9d9f-9e9079048703" />
+<img width="1896" height="1007" alt="Screenshot 2026-08-03 124458" src="https://github.com/user-attachments/assets/ab0ef8d6-97cb-4504-8602-aa7fa1b4925a" />
+<img width="1895" height="1004" alt="Screenshot 2026-08-03 124513" src="https://github.com/user-attachments/assets/8e0fe253-eff8-4239-8002-e8f61a251759" />
+<img width="1896" height="1019" alt="Screenshot 2026-08-03 124558" src="https://github.com/user-attachments/assets/61c7178b-6b57-4ef4-8679-b1be2114bb91" />
+
+### 4. RAG Knowledge Hub (Sub-15ms Vector Retrieval)
+![RAG Knowledge Hub]
+<img width="1895" height="1018" alt="Screenshot 2026-08-03 124641" src="https://github.com/user-attachments/assets/3003abb8-73c6-4a6e-a5f5-1442794c2735" />
+
+### 5. Natural Language BI & PostgreSQL EXPLAIN Plan Analyzer
+![NL SQL & BI Studio]
+<img width="1892" height="1020" alt="Screenshot 2026-08-03 124659" src="https://github.com/user-attachments/assets/a732582d-e5e1-41b7-b56c-3a6e2c7145d4" />
+
+### 6. Agentic RAG Co-Pilot & Workspace
+<img width="1893" height="1003" alt="Screenshot 2026-08-03 124745" src="https://github.com/user-attachments/assets/2d2ba44d-82b5-4add-9341-8457eb75421a" />
+
+### 7. C-Suite Executive Briefings & Presentation Deck Mode
+![Executive Reports]
+<img width="1896" height="1006" alt="Screenshot 2026-08-03 124802" src="https://github.com/user-attachments/assets/e293cc2c-f975-4b75-a847-15f308d40ae6" />
+<img width="1919" height="1006" alt="Screenshot 2026-08-03 124815" src="https://github.com/user-attachments/assets/334c0a81-1214-40c6-893b-5471e9934314" />
 
 ## 🚀 Quick Start & Development
 
