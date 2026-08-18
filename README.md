@@ -50,7 +50,14 @@ NexusAI Enterprise OS is an end-to-end, full-stack enterprise platform designed 
 ### 6. 💬 Agent Co-Pilot
 - **Conversational Intelligence**: Interactive streaming co-pilot powered by Gemini for real-time task dispatching, system control, and data exploration.
 
-### 7. 📄 Executive Report & Presentation Generator
+- 7. 🧠 Autonomous Goal Engine ("Explain Simply. Prove Technically.")
+Dynamic Goal Decomposition: Takes any high-level business question or directive (e.g. "Investigate why Q3 customer churn spiked" or "Analyze revenue variance by tier"), and autonomously compiles an end-to-end directed acyclic graph (DAG) pipeline spanning data analytics, vector knowledge retrieval, TreeSHAP machine learning attribution, automated QA validation, and executive synthesis.
+Dual Presentation Architecture:
+Executive Findings & Attribution: Plain-English, jargon-free business findings, normalized feature driver contributions, and a 90-day prioritized action plan (Immediate, Medium, Strategic).
+Deep Technical Evidence Matrix: Direct mathematical grounding, Mean |SHAP| values, normalized contributions, model validation metrics (Accuracy, ROC-AUC, F1-Score), and raw execution payloads.
+Canonical QA Consistency Engine: Automated QA audit node cross-checks numeric consistency across narrative summaries and source telemetry, producing a synchronized QA audit score (e.g., 96.2% PASSED) across all views.
+
+### 8. 📄 Executive Report & Presentation Generator
 - **Multi-Source Synthesis**: Combines agent outputs, AutoML leaderboards, and RAG citations into human-grade executive briefs.
 - **3 Presentation Modes**:
   - **Executive Document**: C-suite formatted Markdown with styled tables, badges, and callouts.
