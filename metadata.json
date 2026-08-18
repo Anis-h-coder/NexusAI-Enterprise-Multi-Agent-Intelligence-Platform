@@ -1,0 +1,8 @@
+{
+  "name": "Remix NexusAI Enterprise Platform",
+  "description": "Enterprise Multi-Agent Intelligence Platform with autonomous agent orchestration, AutoML pipelines, RAG semantic search, NL to SQL query engine, and interactive executive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
